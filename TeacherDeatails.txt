@@ -1,0 +1,14 @@
+class TeachersDetails{
+    public  static void main (String[] args){
+
+      public String tName;
+      public int tId;
+      public String tSubject;
+   
+}
+
+  Teacher t=new Teacher();
+   t.add("Nitya",01,"Science");
+   t.add("Santosh",05,"Maths");
+
+}
