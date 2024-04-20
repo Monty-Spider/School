@@ -1,0 +1,11 @@
+class TeachersDetails{
+
+    public static main (String[] args){
+      public String name;
+      public int Id;
+      public String subject;
+
+       
+   }
+
+}
